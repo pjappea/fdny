@@ -65,7 +65,7 @@ i{
 /* Your styles go here */
 
 h1, h2, h3, h4, h5, h6{
-	font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-family: Georgia, serif;
 
 }
 
@@ -97,7 +97,7 @@ a {
 
 
  p{
-    font-family:  Garamond, serif;
+    font-family:  Georgia, serif;
     font-size: 16px;
     line-height: 1.5em;
     color: #393939;
@@ -119,14 +119,14 @@ div.wrap{
 }
 
 .wrap p{
-	font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-family:Georgia, serif;
 	color: #000000;
 	font-size: 14px;
 	line-height: 1.2em;
 }
 
 h2{
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-family: Georgia, serif;
 	color: #363636;
 	font-size: 20px;
 	margin-bottom: 20px;
@@ -147,7 +147,7 @@ h2{
 
 
 .button {
-	font-family:'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-family: Georgia, serif;
 	color: #fff ;
     background-color:  #7c7c7d;
     font-weight: normal;
